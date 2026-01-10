@@ -1,2 +1,2 @@
 # My profile
-[![Chenmingjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyskies)
+![ChenMingjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyskies)
